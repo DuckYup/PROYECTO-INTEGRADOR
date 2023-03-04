@@ -27,17 +27,17 @@ function crearBarra(id_barra){
     }
 }
 
-let html = document.getElementById("ingles");
+let ingles = document.getElementById("ingles");
 crearBarra(ingles);
-let javascript = document.getElementById("frances");
+let frances = document.getElementById("frances");
 crearBarra(frances);
-let wordpress = document.getElementById("chino");
+let chino = document.getElementById("chino");
 crearBarra(chino);
-let photoshop = document.getElementById("coreano");
+let coreano = document.getElementById("coreano");
 crearBarra(coreano);
-let php = document.getElementById("español");
+let español = document.getElementById("español");
 crearBarra(español);
-let ilustrator = document.getElementById("office");
+let office = document.getElementById("office");
 crearBarra(office);
 
 
